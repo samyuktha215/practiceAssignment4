@@ -11,7 +11,9 @@ import se.jensen.javacourse.week4.database.LibraryRepository;
 import se.jensen.javacourse.week4.model.Artist;
 import se.jensen.javacourse.week4.model.Track;
 
+
 @Service
+
 public class LibraryService
 {
     @Autowired
